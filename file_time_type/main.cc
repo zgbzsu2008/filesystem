@@ -9,7 +9,7 @@ using namespace std::chrono_literals;
 
 int main()
 {
-  fs::path p = fs::current_path() / "example.bin";
+  fs::path p = fs::current_path();
   std::ofstream(p.c_str()).put('a');
   auto ftime = fs::last_write_time(p);
   auto tmp = std::filesystem::_File_time_clock::now().time_since_epoch() - ftime.time_since_epoch();
