@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "space", "space\space.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "perms", "perms\perms.vcxproj", "{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "file_time_type", "file_time_type\file_time_type.vcxproj", "{6067562E-6516-4447-B033-3F9A772C91BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -79,6 +81,18 @@ Global
 		{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}.Release|x64.Build.0 = Release|x64
 		{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}.Release|x86.ActiveCfg = Release|Win32
 		{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}.Release|x86.Build.0 = Release|Win32
+		{6067562E-6516-4447-B033-3F9A772C91BA}.Debug|ARM.ActiveCfg = Debug|Win32
+		{6067562E-6516-4447-B033-3F9A772C91BA}.Debug|ARM64.ActiveCfg = Debug|Win32
+		{6067562E-6516-4447-B033-3F9A772C91BA}.Debug|x64.ActiveCfg = Debug|x64
+		{6067562E-6516-4447-B033-3F9A772C91BA}.Debug|x64.Build.0 = Debug|x64
+		{6067562E-6516-4447-B033-3F9A772C91BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{6067562E-6516-4447-B033-3F9A772C91BA}.Debug|x86.Build.0 = Debug|Win32
+		{6067562E-6516-4447-B033-3F9A772C91BA}.Release|ARM.ActiveCfg = Release|Win32
+		{6067562E-6516-4447-B033-3F9A772C91BA}.Release|ARM64.ActiveCfg = Release|Win32
+		{6067562E-6516-4447-B033-3F9A772C91BA}.Release|x64.ActiveCfg = Release|x64
+		{6067562E-6516-4447-B033-3F9A772C91BA}.Release|x64.Build.0 = Release|x64
+		{6067562E-6516-4447-B033-3F9A772C91BA}.Release|x86.ActiveCfg = Release|Win32
+		{6067562E-6516-4447-B033-3F9A772C91BA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
