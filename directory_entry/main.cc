@@ -95,3 +95,14 @@ void demo_status(const fs::path& p, fs::file_status s)
   }
   */
 }
+
+/*
+"sandbox/file" is a regular file
+"sandbox/symlink"is a symlink
+"sandbox/pipe"is a name IPC pipe
+"sandbox/dir" is a directory
+"sandbox/sock"is a named IPC socket
+"/dev/null"is a character device
+"/dev/sda" is a block device
+"/sandbox/no"does not exists
+*/
