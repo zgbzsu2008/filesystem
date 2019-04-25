@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "directory_entry", "director
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "space", "space\space.vcxproj", "{B5731018-A9D9-414C-A2BB-39CD5B03F9DA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "perms", "perms\perms.vcxproj", "{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -65,6 +67,18 @@ Global
 		{B5731018-A9D9-414C-A2BB-39CD5B03F9DA}.Release|x64.Build.0 = Release|x64
 		{B5731018-A9D9-414C-A2BB-39CD5B03F9DA}.Release|x86.ActiveCfg = Release|x86
 		{B5731018-A9D9-414C-A2BB-39CD5B03F9DA}.Release|x86.Build.0 = Release|x86
+		{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}.Debug|ARM.ActiveCfg = Debug|Win32
+		{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}.Debug|ARM64.ActiveCfg = Debug|Win32
+		{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}.Debug|x64.ActiveCfg = Debug|x64
+		{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}.Debug|x64.Build.0 = Debug|x64
+		{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}.Debug|x86.ActiveCfg = Debug|Win32
+		{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}.Debug|x86.Build.0 = Debug|Win32
+		{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}.Release|ARM.ActiveCfg = Release|Win32
+		{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}.Release|ARM64.ActiveCfg = Release|Win32
+		{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}.Release|x64.ActiveCfg = Release|x64
+		{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}.Release|x64.Build.0 = Release|x64
+		{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}.Release|x86.ActiveCfg = Release|Win32
+		{FFE73F0F-3C83-4CD7-B2E3-145595B5D977}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
