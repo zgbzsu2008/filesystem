@@ -23,7 +23,7 @@
     </Text>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="path.cc">
+    <ClCompile Include="main.cc">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
